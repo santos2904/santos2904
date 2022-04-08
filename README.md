@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=radical)
+![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=dark)
 
 
