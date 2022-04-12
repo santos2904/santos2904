@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -22,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-
 ---
 
 ![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=dark&count_private=true)
-
-
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&langs_count=8)](https://github.com/santos2904/github-readme-stats)
