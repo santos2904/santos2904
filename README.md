@@ -10,7 +10,7 @@ santos2904/santos2904 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -19,11 +19,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+<br/>
+<br/>
+
 ---
 
 ![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=dark&count_private=true)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&langs_count=8)](https://github.com/santos2904/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&langs_count=8&theme=dark)](https://github.com/santos2904/github-readme-stats)
