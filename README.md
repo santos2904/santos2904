@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 ![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=dark&count_private=true)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&langs_count=8&theme=dark)](https://github.com/santos2904/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&layout=compact&theme=dark)](https://github.com/santos2904/github-readme-stats)
