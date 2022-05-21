@@ -1,7 +1,7 @@
 ## Hi there, I'm Santhos 👋
 
 - 👀 I’m interested in webDev
-- 🌱 I’m currently learning CS50x, Javascript
+- 🌱 I’m currently learning CS50x, Javascript, Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
