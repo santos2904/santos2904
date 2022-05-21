@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ---
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 ![Santhos's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2904&show_icons=true&theme=dark&count_private=true)
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santos2904&layout=compact&theme=dark)](https://github.com/santos2904/github-readme-stats)
-</details>
+
